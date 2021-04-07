@@ -38,3 +38,15 @@ s_no | name | gender
 
 ### insert hyperlink
 [cric](https://www.cricbuzz.com/)
+
+
+```python
+if 123>0;
+print("hi")
+```
+
+if 123>0
+print("hi")
+
+
+**_Note:_**  very complicatewd
